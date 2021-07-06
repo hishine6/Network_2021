@@ -8,9 +8,9 @@ result.txt : total dataword, error dataword
 
 # Configure Makefile
 
-Generator = 1~111111111   
-Dataword = 4, 8   
-Error rate = 0~1   
+Generator = 1 ~ 111111111   
+Dataword = 4 , 8   
+Error rate = 0 ~ 1   
 seed = for same random result   
 
 # Error Rate
